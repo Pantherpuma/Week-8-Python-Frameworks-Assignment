@@ -1,0 +1,10 @@
+[project]
+name = "CORD-19 Data Explorer"
+
+[server]
+headless = true
+port = 8501
+enableCORS = false
+
+[theme]
+base = "light"

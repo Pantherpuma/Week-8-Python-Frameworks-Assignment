@@ -1,0 +1,8 @@
+# Ignore Python artifacts
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Ignore large datasets (keep sample only)
+data/metadata.csv

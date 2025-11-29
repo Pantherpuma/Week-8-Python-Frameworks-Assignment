@@ -1,0 +1,8 @@
+pandas>=1.2
+matplotlib>=3.3
+seaborn>=0.11
+streamlit>=1.0
+wordcloud>=1.8
+nltk>=3.5
+scikit-learn>=1.0
+pytest>=7.0

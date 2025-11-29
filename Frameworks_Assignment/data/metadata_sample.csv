@@ -1,0 +1,21 @@
+cord_uid,title,abstract,publish_time,authors,journal,source_x
+uid_001,Understanding COVID-19 Transmission,Study of transmission paths and control strategies,2020-03-15,Smith J.; Lee D.,Journal A,PMC
+uid_002,SARS-CoV-2 and immune response,Insights into immune response mechanisms,2021-06-20,Garcia P.; Wang Q.,Journal B,PubMed
+uid_003,COVID-19 clinical features,Clinical features observed in patients,2020-05-01,Nguyen T.,Journal A,PMC
+uid_004,Variants of SARS-CoV-2,Analysis of new variants and mutations,2021-12-01,Khan M.; Patel S.,Journal C,arXiv
+uid_005,Vaccine development and efficacy,Early vaccine trial results,2020-11-10,Brown A.; Davis K.,Journal B,PMC
+uid_006,Long COVID symptoms observed,Long term symptoms and follow-up,2022-02-14,O'Connor L.,Journal D,PubMed
+uid_007,Diagnostic testing for SARS-CoV-2,Evaluation of PCR and antigen tests,2020-04-20,Jones R.; Patel S.,Journal A,PMC
+uid_008,Airborne transmission debate,Experimental evidence for aerosol spread,2019-12-05,Zhang Y.,Journal E,arXiv
+uid_009,Treatment options and trials,Overview of candidate treatments,2020-08-30,Doe J.,Journal C,PubMed
+uid_010,Public health interventions and outcomes,Effectiveness of social distancing measures,2020-04-10,Hernandez F.,Journal F,PMC
+uid_011,Children and COVID-19,Effects on pediatric populations,2021-09-05,Lopez M.; Singh K.,Journal G,PubMed
+uid_012,Reinfection cases analysis,Case studies of reinfection,2022-06-01,Evans R.,Journal C,PMC
+uid_013,SARS-CoV-2 genome mapping,Mapping genetic sequences,2020-01-15,Perez A.,Journal H,arXiv
+uid_014,Data sharing in pandemics,How data sharing accelerated research,2021-03-20,Kim S.,Journal I,PubMed
+uid_015,Source tracking and origins,Genomic tools to trace origins,2019-11-09,Ahmed H.,Journal E,arXiv
+uid_016,Mental health during pandemic,Population mental health impacts,2020-07-12,Sanchez L.; Green T.,Journal J,PMC
+uid_017,Hospital resource utilization,ICU usage and capacity planning,2020-10-05,Lo R.,Journal F,PubMed
+uid_018,Modeling COVID-19 spread,SIR model adaptations and simulations,2021-01-08,Martin B.; Yu Z.,Journal K,arXiv
+uid_019,Comparative analyses of coronaviruses,Comparing SARS, MERS, and SARS-CoV-2,2020-02-28,Nguyen T.,Journal H,PMC
+uid_020,Public communication and trust,Trust in public health messaging,2022-05-15,Lee D.,Journal J,PubMed
